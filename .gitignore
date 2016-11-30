@@ -183,6 +183,12 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 
+#############
+## Clion
+#############
+cmake-build-debug/
+.idea/
+
 
 #############
 ## Python
